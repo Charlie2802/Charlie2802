@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Darakh</h1>
 <h3 align="center">Passionate about Blockchain, Artificial Intelligence</h3>
-<img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg”>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie2802&label=Profile%20views&color=0e75b6&style=flat" alt="charlie2802" /> </p>
 
 <p align="left"> <a href="https://twitter.com/darakhaaditya" target="blank"><img src="https://img.shields.io/twitter/follow/darakhaaditya?logo=twitter&style=for-the-badge" alt="darakhaaditya" /></a> </p>
