@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **aaditya.darakh@gmail,com**
 
-- ⚡ Fun fact **People Don't Change**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
